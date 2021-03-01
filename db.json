@@ -1,14 +1,11 @@
-[
-  {
-    "steam": 1,
-    "ip": "20"
-  },
-  {
-    "steam": 2,
-    "ip": "56"
-  },
-  {
-    "steam": 3,
-    "ip": "87"
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-]
+}
